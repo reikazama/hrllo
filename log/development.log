@@ -1,0 +1,35 @@
+Started GET "/" for 127.0.0.1 at 2018-06-14 23:45:04 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/Kunisaburo/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/Kunisaburo/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb (13.4ms)
+Completed 200 OK in 43ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-15 22:50:34 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 20ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-15 22:52:18 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.2ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-15 22:53:21 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-06-15 22:59:07 +0900
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.5ms)
+Completed 200 OK in 17ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
